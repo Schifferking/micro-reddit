@@ -1,24 +1,5 @@
-# README
+# Micro-reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is a ruby on rails project where it makes a very light version of reddit.<br>
+It contains users, posts and comments. The comments cannot contain other comments. <be>
+To do this, it uses models, migrations, validations and associations to store the data and each part is properly related.
